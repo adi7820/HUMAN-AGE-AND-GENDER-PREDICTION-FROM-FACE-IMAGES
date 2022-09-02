@@ -53,3 +53,9 @@ In this project, we offer a multi-task learning framework for predicting age and
 We also showed that by choosing the right activation function make effect on the result of prediction and can improve accuracy.
 Recent deep neural network models can accurately evaluate human face photos, recognising the person's age, gender, and emotional state, among other things. These models, however, typically operate like black boxes due to their complicated non-linear structure, and it was unclear until recently why they arrived at their predictions.
 On the tough UTK-Face dataset, we tested different image pre-processing, model initialization, and architecture options and explained how they affect performance. The UTK-Face data set, we achieve state-of-the-art gender categorization performance using a mix of modest pre-processing techniques.
+
+
+
+https://user-images.githubusercontent.com/25850136/188217749-08ba2194-4848-4df3-a231-5c5f8af1ee9d.mp4
+
+
